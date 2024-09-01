@@ -4,4 +4,4 @@ Here is a little introduction:
 - Currently studying BSCS at FAST University
 - My hobby is playing video games
 - Currently living in Karachi, Pakistan
-![Programming languages](https://www.zdnet.com/education/computers-tech/what-is-coding-and-what-is-it-used-for/)
+![Programming languages](https://images.pexels.com/photos/270366/pexels-photo-270366.jpeg)
